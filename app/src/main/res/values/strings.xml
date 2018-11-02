@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inbox</string>
+    <string name="app_time1">2 hours ago</string>
+    <string name="app_time2">🕒 </string>
+    <string name="app_time3">26 Mei</string>
+    <string name="title">Inbox</string>
+</resources>
